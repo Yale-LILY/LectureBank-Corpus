@@ -30,13 +30,14 @@ We went through a URL check on April, 2022, here are the valid resource numbers:
 
 ## Taxonomy
 
-This is the scheme release for our paper [CLICKER: A Computational LInguistics Classification Scheme for Educational Resources](https://arxiv.org/abs/2112.08578).
-
+NLP taxonomy release. 
 In the file `taxonomy.csv`, we include the taxonomy with 320 topics in a tree structure. The topic ID for each topic shows the parent node. For example, `233 (Relation Extraction)` has a parent node to be `23 (Part of Speech Tagging)`, and topic `23` has its parent node to be `2 (Language Modeling, Syntax, Parsing)`.
 
 
 - `Topic ID`: Id of topic.
 - `Topic`: topic name.
+
+ You can find how this was created in our paper [CLICKER: A Computational LInguistics Classification Scheme for Educational Resources](https://arxiv.org/abs/2112.08578).
 
 ## Other resources
 
