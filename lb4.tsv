@@ -581,15 +581,15 @@ ID	Instructor	Title	Topic	URL	Venue	Year
 579	Mark Yatskar	Vector Semantics, Part 3	103	http://computational-linguistics-class.org/slides/06-vector-semantics-part-3.pdf	University of Pennsylvania	2021
 580	Mark Yatskar	Neural Network LMs	103	http://computational-linguistics-class.org/slides/08-neural-network-language-models-lecture-notes.pdf	University of Pennsylvania	2021
 581	Mark Yatskar	Neural Network LMs	103	http://computational-linguistics-class.org/slides/08-neural-network-language-models-lecture-notes.pdf	University of Pennsylvania	2021
-582	Michael Collins	The Naive Bayes Model, Maximum-Likelihood Estimation, and the EM Algorithm	102	http://www.cs.columbia.edu/~mcollins/em.pdf	Columbia University
+582	Michael Collins	The Naive Bayes Model, Maximum-Likelihood Estimation, and the EM Algorithm	102	http://www.cs.columbia.edu/~mcollins/em.pdf	Columbia University	2011
 583	Michael Collins	Tagging with Hidden Markov Models	221	http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/hmms.pdf	Columbia University	2011
 584	Michael Collins	Tagging Problems, and Hidden Markov Models	221	http://anoopsarkar.github.io/nlp-class/assets/mcollins-notes/hmms-spring2013.pdf	Columbia University	2013
-585	Michael Collins	Statistical Machine Translation: IBM Models 1 and 2	451	https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/handouts/Collins_annotated.pdf	Stanford University
+585	Michael Collins	Statistical Machine Translation: IBM Models 1 and 2	451	https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/handouts/Collins_annotated.pdf	Stanford University	2011
 586	Michael Collins	Lexicalized Probabilistic Context-Free Grammars	165	http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/lexpcfgs.pdf	Columbia University	2011
-587	Michael Collins	Course Notes for COMS w4705: Language Modeling	999	http://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf	Columbia University
+587	Michael Collins	Course Notes for COMS w4705: Language Modeling	999	http://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf	Columbia University	2011
 588	Michael Collins	Chapter 1 Language Modeling	211	http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/lm.pdf	Columbia University	2011
-589	Michael Collins	Log-Linear Models	999	http://www.cs.columbia.edu/~mcollins/loglinear.pdf	Columbia University
-590	Michael Collins	Phrase-Based Translation Models	999	http://www.cs.columbia.edu/~mcollins/pb.pdf	Columbia University
+589	Michael Collins	Log-Linear Models	999	http://www.cs.columbia.edu/~mcollins/loglinear.pdf	Columbia University	2011
+590	Michael Collins	Phrase-Based Translation Models	999	http://www.cs.columbia.edu/~mcollins/pb.pdf	Columbia University	2011
 591	Michael Collins	Probabilistic Context-Free Grammars (PCFGs)	165	http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/pcfgs.pdf	Columbia University	2011
 592	Pascal Poupart	Course Introduction	107	https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-spring19/slides/cs480-lecture1.pdf	University of Waterloo	2019
 593	Pascal Poupart	Multi-layer Neural Networks, Error Backpropagation	107	https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-spring19/slides/cs480-lecture10.pdf	University of Waterloo	2019
