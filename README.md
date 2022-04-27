@@ -7,22 +7,26 @@ Data for experiments [link](https://github.com/Yale-LILY/LectureBank).
 ## Meta Data
 
 ### Versions
-`LectureBank1and2.tsv`: LectureBank 1.0 and 2.0, 1717 files.
+`lb*.tsv`: data with different versions. 
 
-`LectureBank3.tsv`: LectureBank 3.0, 5009 files.
 
-Each line identifies a lecture file. Format:
-
-`(ID, Title, URL, Year, Author, Domain, Venue)`
+`ID, Instructor, Title, Topic, URL, Venue, Year`
 
 
 - `ID`: Id of each line.
+- `Instructor`: The author name(s).
 - `Title`: File tile.
+- `Topic`: The Topic Number, check `taxonomy.csv` for topic name. 
 - `URL`: Online URL.
 - `Year`: Year of the course.
-- `Author`: The author name(s).
-- `Domain`: The domain (nlp, ir, dl, ml, ai).
 - `Venue`: Name of the university, or `GitHub`.
+
+We went through a URL check on April, 2022, here are the valid resource numbers: 
+- 1020 lb1.tsv
+- 308 lb2.tsv
+- 3564 lb3.tsv
+- 3136 lb4.tsv
+
 
 ## Taxonomy
 
@@ -34,4 +38,6 @@ In the file `taxonomy.csv`, we include the taxonomy with 320 topics in a tree st
 - `Topic ID`: Id of topic.
 - `Topic`: topic name.
 
+## Other resources
 
+Please visit our website [AAN.how](https://aan.how/).
