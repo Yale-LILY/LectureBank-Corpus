@@ -1,6 +1,8 @@
-# LILY LectureBank Data
+# LILY LectureBank Corpus
 
-Data for experiments [link](https://github.com/Yale-LILY/LectureBank).
+This is the repo for LectureBank Corpus, with all batches and updates. We release meta data in this repo. 
+
+Note that we also have a few works using part of the corpus, you can find more details in this [link](https://github.com/Yale-LILY/LectureBank).
 
 
 
