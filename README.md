@@ -23,11 +23,14 @@ Note that we also have a few works using part of the corpus, you can find more d
 - `Year`: Year of the course.
 - `Venue`: Name of the university, or `GitHub`.
 
-We went through a URL check on April, 2022, here are the valid resource numbers: 
+We went through a URL check on May, 2022, here are the valid resource numbers: 
 - 1020 lb1.tsv
 - 308 lb2.tsv
 - 3564 lb3.tsv
 - 3136 lb4.tsv
+- 1321 lb5.tsv
+
+**NOTE**: we combined all five batches of LectureBank, and remove duplicates and invlaid urls. All data can be found in `alldata.tsv` with a total number to be **7104**. 
 
 
 ## Taxonomy
