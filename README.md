@@ -30,7 +30,7 @@ We went through a URL check on May, 2022, here are the valid resource numbers:
 - 3136 lb4.tsv
 - 1321 lb5.tsv
 
-**NOTE**: we combined all five batches of LectureBank, and remove duplicates and invlaid urls. All data can be found in `alldata.tsv` with a total number to be **7104**. 
+**NOTE**: we combined all five batches of LectureBank, and remove duplicates and invalid urls. All data can be found in `alldata.tsv` with a total number to be **7104**. 
 
 
 ## Taxonomy
